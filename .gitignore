@@ -1,0 +1,60 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+*.gch
+
+# Executables
+*.exe
+*.out
+*.app
+
+## Visual Studio Files 
+# Link files
+*.ilk
+# User Files
+*.sln
+*.suo
+*.vxproj
+*.vxproj.filters
+*.vxproj.user
+
+# Debug Files
+*.pdb
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Bb]uild/
+[Pp]rojects/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
+
+#scons
+*.sconsign.dblite
+
