@@ -37,7 +37,7 @@ project 'Playground'
     'client/cpp/source/**',
     'client/cpp/include/**'
   }
-  includedirs{ 'include' }
+  includedirs{ 'client/cpp/include' }
   configuration 'Debug'
     flags{'Symbols'}
   configuration 'Release'
