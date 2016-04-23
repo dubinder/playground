@@ -24,12 +24,15 @@
 ## Visual Studio Files 
 # Link files
 *.ilk
+
 # User Files
 *.sln
 *.suo
 *.vxproj
 *.vxproj.filters
 *.vxproj.user
+*.csproj
+*.vscode
 
 # Debug Files
 *.pdb
@@ -58,3 +61,6 @@ ipch/
 #scons
 *.sconsign.dblite
 
+#Unity
+[Ll]ibrary/
+[Tt]emp/
